@@ -9,5 +9,4 @@ fn main(){
     breite: 30,
     höhe: 40
   };
-
 }

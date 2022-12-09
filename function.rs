@@ -1,9 +1,9 @@
-fn another_function(value: u32) {
+fn funktion(value: u32) {
   println!("The value is {value}.")
 }
 
 fn main() {
-  another_function(32)
+  funktion(32)
   // Error
-  // another_function(32, 87)
+  // funktion(32, 87)
 }
