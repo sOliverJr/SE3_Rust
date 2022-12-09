@@ -1,4 +1,4 @@
-fn another_function(value: u32) -> _{
+fn another_function(value: u32) {
   println!("The value is {value}.")
 }
 
